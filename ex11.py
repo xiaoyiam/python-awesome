@@ -7,3 +7,4 @@ weight=raw_input()
 
 print "So ,you're %r old, %r tall and %r heavy." %(age,height,weight)
 print "Everything is done ! Good Job !"
+print "Okay!"
