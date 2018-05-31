@@ -7,12 +7,12 @@ with logic so firmly planted
 cannot discern \n the needs of love
 nor comprehend passion from intuition
 and requires an explanation
-\n\t\t where there is none.
+\n\t\twhere there is none.
 """
-
-print "-*10"
+# not "-*20"
+print "-"*20
 print poem
-print "-*10"
+print "-"*20
 
 five = 10-2+3-6
 print "This should be five: %s" % five
@@ -21,15 +21,15 @@ def secret_formula(started):
     jelly_beans = started * 500
     jars = jelly_beans / 100
     crates = jars /100
-    return jelly_beans, jars, cartes
+    return jelly_beans, jars, crates
 
 
 
 start_point = 1000
-beans, jars ,cartes = secret_formula(start_point)
+beans, jars ,crates = secret_formula(start_point)
 
 print "With a starting point of : %d" % start_point
-print "We'd have %d beans ,%d jars, and %d cartes." % (beans,jars,cartes)
+print "We'd have %d beans ,%d jars, and %d crates." % (beans,jars,crates)
 
 start_point = start_point / 10
 
