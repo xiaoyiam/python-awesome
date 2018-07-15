@@ -1,5 +1,5 @@
 
-    <code>
+
     def computepay(h,r):
 
         if h<=40 :
@@ -24,4 +24,3 @@
     p = computepay(hours,rate)
 
     print(p)
-    </code>
