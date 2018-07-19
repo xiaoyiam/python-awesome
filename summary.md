@@ -1,6 +1,6 @@
 # SUMMARY
 
-* [自序](preface.md)
+* [自序](preface.md)  
 * [习题01：为什么要写这本书](function.md)  
   * [知识点001](function.md)
 * [习题02：为什么要写这本书](function.md)  
@@ -55,4 +55,6 @@
 * [习题51：为什么要写这本书](function.md)
 * [习题52：为什么要写这本书](function.md)
 * [习题53：为什么要写这本书](function.md)
-* [习题54：为什么要写这本书](function.md)
+* [习题54：为什么要写这本书](function.md)  
+* [进一步操作](furthermore.md)  
+* [问题集锦](question.md)
